@@ -21,7 +21,7 @@ void selectionsort(int arr[],int n){
 int main (){
 
     int n;
-    printf("Enter array size : ");
+    printf("Enter Array Size : ");
     scanf("%d",&n);
 
     int arr[n];
